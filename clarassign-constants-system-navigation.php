@@ -24,8 +24,7 @@ constants_connection_professionals.php
 sup_nav_constants.php
 */
 
-define('CLAR_PUBLIC',    CLAR_ROOT . '/clarassign-public');
-define('CLAR_CONTROLLERS',    CLAR_ROOT . '/clarassign-controllers');
+
 define('CLAR_MODELS',    dirname(CLAR_ROOT) . '/Clarassign/models');
 
 // CAIT Constants
