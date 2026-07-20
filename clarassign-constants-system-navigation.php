@@ -15,6 +15,7 @@ $activeCaseNewPanel = $activeCaseNewPanel ?? 'case-info';
 define('CLAR_ROOT', dirname(__DIR__));
 
 define('CLAR_CONSTANTS', CLAR_ROOT . '/constants');
+require_once CLAR_CONSTANTS . '/clarassign-constants-enums.php';
 /*
 clarassign-constants-system-navigation.php
 constants_connection_cases_and_assignments.php
